@@ -64,3 +64,4 @@ Attend this session if you want to learn:
 - How to remediate some of the most common issues with Kubernetes
 
 [Link](./troubleshooting-kubernetes)
+link
